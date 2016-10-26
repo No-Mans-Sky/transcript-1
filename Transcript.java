@@ -11,7 +11,7 @@ public class Transcript {
 
   String name;
   Integer age;
-  Integer yog;
+  Integer yog; //What does "yog" even mean.
   Float gpa;
   HashMap<String, Float> courses;
   Integer studentid;
